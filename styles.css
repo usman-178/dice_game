@@ -1,0 +1,71 @@
+body{
+font-family: adobe-garamond-pro, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+  background-color: #F5E8C7;
+  margin:0;
+}
+
+
+
+.bariheading
+{
+    text-align: center;
+    font-size: 7rem;
+
+
+}
+.player1 {
+  display: inline;
+  margin-right: 12rem;
+  font-size: 2rem;
+}
+
+.player2 {
+  display: inline;
+  margin-left: 12rem;
+  font-size: 2rem;
+}
+
+.players{
+  text-align: center;
+
+}
+.dices{
+  text-align: center;
+
+}
+
+.dice1{
+  display: inline-block;
+
+  width: 30%;
+  margin: 2rem;
+
+}
+
+.dice2{
+  display: inline-block;
+
+  width: 30%;
+  margin: 2rem;
+}
+
+.footer{
+  text-align: center;
+  margin-top: 5rem;
+  margin-bottom: 0;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ECCCB2;
+
+}
+
+.links{
+  margin: 2rem;
+  color: #AC7088;
+}
+
+.copyrights{
+  color: #AC7088;
+  padding-top: 2rem;
+}
